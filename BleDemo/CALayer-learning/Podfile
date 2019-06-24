@@ -1,0 +1,13 @@
+
+
+platform :ios, '8.0'
+
+
+target 'CALayer-learning' do
+
+pod 'Masonry'
+
+
+end
+
+
